@@ -37,8 +37,8 @@ def main():
         "Indian_Pines": 16,
     }
     PATCH_SIZE = 9
-    TRAIN_TIME = 500
-    EPOCH_TIME = 10
+    TRAIN_TIME = 10
+    EPOCH_TIME = 500
     LR = 1e-3
     LR_WEIGHT_DECAY = 5e-4
     TRAIN_BATCH_SIZE = 64
